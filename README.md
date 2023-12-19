@@ -1,1 +1,2 @@
-# OCTANET_JULY_TASK3
+# Netflix clone
+by Priyanshu chaudhary
